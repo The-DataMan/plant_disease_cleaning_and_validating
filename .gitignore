@@ -1,0 +1,3 @@
+myenv/
+.ipynb_checkpoints/
+sanitized/sanitized_disease_data.csv
